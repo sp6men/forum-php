@@ -1,0 +1,53 @@
+html{
+    
+    background-color: #2a3132;
+}
+.carremilieu{
+    position:absolute;
+    top:25%;
+   
+    height:74.8%;
+    min-width: 10px;
+    
+    background-color: #336b87;
+}
+
+
+.inscription{
+    position: absolute;
+    left:88%;
+    top:18%;
+    color:#763626;
+    font-size: 15px;
+    
+}
+
+
+.entete{
+    
+    height: 150px;
+    width: 150px;
+     background-color: #90afc5;
+    
+}
+
+
+.Calque_2 {
+ /* background-image: url("Calque_2.png"); */
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 246px;
+  height: 143px;
+  z-index: 2;
+}
+
+.rubriques {
+    position: absolute;
+    top:0px;
+    left:70px;
+}
+.colonnerubrique {
+    position: absolute;
+    top:50px;
+}
